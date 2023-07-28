@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning React js!
 - 📫 How to reach me <b>matisierra.develop@gmail.com</b>.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiSierraDev)](https://github.com/MatiSierraDev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiSierraDev&show_icons=true&bg_color=00000000)](https://github.com/MatiSierraDev/github-readme-stats#gh-dark-mode-only)
+
+
 
 <!---
 MatiSierraDev/MatiSierraDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
